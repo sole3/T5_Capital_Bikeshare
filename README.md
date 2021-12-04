@@ -7,11 +7,11 @@ Data Society.
 - Link: [data.world](https://data.world/data-society/capital-bikeshare-2011-2012).
 - Or you can download it from the attached file.
 
-# Dataset Description:
-This data has 17,379 rows, 14 columns.
-
 # Business Problem:
 Predict the total users that depends on time.
+
+# Dataset Description:
+This data has 17,379 rows, 14 columns.
 
 | Num | Command | Description |
 | --- | --- | --- |
@@ -38,12 +38,11 @@ Predict the total users that depends on time.
 - Zoom
 
 # Questions:
-- What is the busiest day for cycling, and was it during a holiday?
 - What are the most crowded days and what time was it?
-- Is there a relationship between the weather and casual users?
-- If it is a working day, does the season affect the total users?
-#### Prediction Question:
-- Can we predict the total users based on season, day of the week, weather type, temperature and humidity?
+- What is the difference between registered and casual users?
+- How does the season affect the number of users?
+- Did the low temperature in winter affect the registered users and casual users?
+
 
 # Algorithms:
 - Linear Regression
