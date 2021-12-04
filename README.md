@@ -10,6 +10,8 @@ Data Society.
 # Dataset Description:
 This data has 17,379 rows, 14 columns.
 
+# Business Problem:
+Predict the total users that depends on time.
 
 | Num | Command | Description |
 | --- | --- | --- |
