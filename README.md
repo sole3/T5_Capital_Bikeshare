@@ -2,6 +2,7 @@
 This is a data set of Capital Bikeshare users on an hourly basis across Washington D.C.
 This data was gathered from 2011 - 2012 and it is created by 
 Data Society.
+This data was chosen because Riyadh is one of the most densely populated cities in the world, making it one of the most crowded cities, and this is one of the most problems facing the residents of Riyadh, so we looked for a number of new solutions to alleviate this congestion, and we found that the idea of providing bicycles is very suitable, we studied this idea so that we chose one of the most famous and largest degree company in the United States, capital Bikeshare and was chosen based on several factors including that it is based on In Washington, D.C., where congestion is high there and with different seasons, we can predict the number of users based on a certain temperature, in one season of the year, or in a certain weather, and based on the results we decide whether the company is selected and brought to Saudi Arabia?
 
 ![](Images/capital-bikeshare-logo.png)
 - Link: [data.world](https://data.world/data-society/capital-bikeshare-2011-2012).
