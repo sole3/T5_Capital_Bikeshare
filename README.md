@@ -53,6 +53,6 @@ The MVP goal is to answer at least three of the mentioned questions.
 
 ## Authors
 
-- [@Gha7](https://github.com/Gha7)
+- [@GhassanAlrehaili](https://github.com/GhassanAlrehaili)
 - [@sole3](https://github.com/sole3)
 - [@MahaAlHarqan](https://github.com/MahaAlHarqan)
